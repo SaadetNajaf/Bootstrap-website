@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body {
+  padding-top: 50px;
+  font-family: "Raleway", serif;
+}
+
+.slider {
+  height: 600px;
+  object-fit: cover;
+}
+
+.about, .galery {
+  background-color: #f2f2f2;
+}
+
+
+.custom-hr {
+  opacity: 1;
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto ;
+}
+
+
+.leaf {
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+.leaf-white {
+  border: 10px solid #fff;
+  background-color: #fff;
+}
+
+.card:hover, .figure:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
