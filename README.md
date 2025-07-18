@@ -2,21 +2,32 @@
 
 Welcome to **Paylaştıkça**, a beautifully crafted website designed to provide informative content and foster knowledge sharing. Explore our dynamic homepage, get to know our team, browse our gallery, and connect with us through the contact section.
 
+---
+
 ## ⚙️ Features  
 
-✅ Responsive Design 📱: Fully optimized for any device, ensuring a smooth user experience.
+✅ **Responsive Design**
+Fully optimized for any device, ensuring a smooth user experience.
 
-✅ Carousel Slider 🎠: Eye-catching rotating images on the homepage, showcasing beautiful visuals.
+✅ **Carousel Slider**
+Eye-catching rotating images on the homepage, showcasing beautiful visuals.
 
-✅ About Section 📖: Learn more about our mission and values in a well-crafted, informative area.
+✅ **About Section**
+Learn more about our mission and values in a well-crafted, informative area.
 
-✅ Team Section 👥: Meet our dedicated team members with their roles and images.
+✅ **Team Section**
+Meet our dedicated team members with their roles and images.
 
-✅ Gallery 🖼️: Explore a gallery featuring our latest photos, available in full-size view.
+✅ **Gallery**
+Explore a gallery featuring our latest photos, available in full-size view.
 
-✅ Contact Form 📩: Get in touch with us quickly through an easy-to-fill contact form.
+✅ **Contact Form**
+Get in touch with us quickly through an easy-to-fill contact form.
 
-✅ Fixed Navbar 🔝: Always accessible navigation bar that provides seamless access to all sections.
+✅ **Fixed Navbar**
+Always accessible navigation bar that provides seamless access to all sections.
+
+---
 
 ## 🛠 Technologies Used  
 
@@ -25,9 +36,13 @@ Welcome to **Paylaştıkça**, a beautifully crafted website designed to provide
 - **Bootstrap 5** ⚡: A powerful, responsive framework for quick and easy design.
 - **Font Awesome** 🔠: Enhancing visual elements with a rich icon library. 
 
+---
+
 ## 🔍 Preview  
 
 ![Coffee Shop](Paylastikca-bootstrap.gif)  
+
+---
 
 ## 📞 Contact  
 
