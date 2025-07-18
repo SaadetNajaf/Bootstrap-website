@@ -6,25 +6,25 @@ Welcome to **Paylaştıkça**, a beautifully crafted website designed to provide
 
 ## ⚙️ Features  
 
-✅ **Responsive Design**
+✅ **Responsive Design**   
 Fully optimized for any device, ensuring a smooth user experience.
 
-✅ **Carousel Slider**
+✅ **Carousel Slider**  
 Eye-catching rotating images on the homepage, showcasing beautiful visuals.
 
-✅ **About Section**
+✅ **About Section**   
 Learn more about our mission and values in a well-crafted, informative area.
 
-✅ **Team Section**
+✅ **Team Section**  
 Meet our dedicated team members with their roles and images.
 
-✅ **Gallery**
+✅ **Gallery**  
 Explore a gallery featuring our latest photos, available in full-size view.
 
-✅ **Contact Form**
+✅ **Contact Form**  
 Get in touch with us quickly through an easy-to-fill contact form.
 
-✅ **Fixed Navbar**
+✅ **Fixed Navbar**   
 Always accessible navigation bar that provides seamless access to all sections.
 
 ---
